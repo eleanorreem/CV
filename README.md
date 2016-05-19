@@ -5,16 +5,17 @@
 | JavaScript| Hapi.js              | Tape      | Git          | Redis     |
 | Node.js   | React.js             | Jasmine   | npm          | PostgreSQL|
 | HTML5     | Bootstrap            | QUnit     | GitHub Pages | |
-| CSS3      | Sass                 |           | Photoshop    | |
-| Markdown  | Materialize          |           | InkScape     | |
+| CSS3      | Sass                 |           |      | |
+| Markdown  | Materialize          |           |      | |
 |           | Material UI          |           |              | |
 
 ## Relevant Experience
 ### Founders and Coders CIC
 ##### Full Stack Freelance Developer (May 2016 - Present)
 
-* Collaborated with clients such as Breast Cancer Care and London Youth to define projects.  
-* Worked on proof-of-concept web applications. 
+* Worked on prototype web applications. 
+* Collaborated with clients such as Breast Cancer Care and London Youth to scope projects.  
+
 
 #### 16 Week Intensive Development Course
 
@@ -34,11 +35,11 @@ Supported CEO John Kampfner interact with a broad range of creative industries a
 Fundraised, organised, and wrote training programmes for multiple women’s crews. Coached the most successful novice crew recorded. Took a crew to race internationally.
 
 ## Academic Achievements
-#### BA (Hons) Classics, 2.1 (First Class Dissertation) 
-King’s College, Cambridge (2011-14)
+#### The Warburg Institute and The National Gallery (2014-15)
+MA in Art History (Merit)
 
-#### MA in Art History (Merit)
-The Warburg Institute and The National Gallery (2014-15)
+#### King’s College, Cambridge (2011-14)
+BA (Hons) Classics, 2.1 (First Class Dissertation) 
 
 #### A-Levels - Maths A*, Further Maths A, Classical Greek A;  AS-Levels - Art History A, Art A
 Camden School for Girls
@@ -46,7 +47,6 @@ Camden School for Girls
 #### Remedies for Love in the Ancient World co-written with Dr Vivienne Lo
 A co-written publication, soon to be published by Cambridge University Press.
 
-
 ## Links
-[LinkedIn](https://uk.linkedin.com/in/eleanorreem) | [Twitter](https://twitter.com/eleanorreem)
+[LinkedIn](https://uk.linkedin.com/in/eleanor-re-em-b64695a3)
 
