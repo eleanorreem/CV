@@ -2,20 +2,20 @@
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| JavaScript| Hapi.js              | Tape      | Git          | Redis     |
+| JavaScript| Hapi.js              | Tape      | Git          | Redis     | 
 | Node.js   | React.js             | Jasmine   | npm          | PostgreSQL|
 | HTML5     | Bootstrap            | QUnit     | GitHub Pages | |
-| CSS3      | Sass                 |           |      | |
-| Markdown  | Materialize          |           |      | |
+| CSS3      | Sass                 |           | Travis CI    | |
+| Markdown  | Materialize          |           |              | |
 |           | Material UI          |           |              | |
-
+|           | Flexbox              |           |              ||
 ## Relevant Experience
 ### Founders and Coders CIC
 ##### Full Stack Freelance Developer (May 2016 - Present)
 
 * Worked on prototype web applications. 
-* Collaborated with clients such as Breast Cancer Care and London Youth to scope projects.  
-
+* Collaborated with clients to scope projects such as London Youth. 
+* Developed an prototype recovery app for Breast Cancer Care. 
 
 #### 16 Week Intensive Development Course
 
