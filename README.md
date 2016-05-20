@@ -25,6 +25,10 @@
 * Managing the overall course for the next cohort, ensuring everyone has prepared content and the course is well organised. 
 
 ## Other Experience and Interests
+### British Museum (Oct 2015 – pres)
+##### Researcher for Sex Education Pilot Scheme
+Writing session plans for sex education sessions using objects within the museum to understand gender identity and sexual orientation.
+
 ### Creative Industries Federation (September 2014 - July 2015)
 ##### Research and Events Assistant
 Supported CEO John Kampfner interact with a broad range of creative industries and assisted in the organisation of events for industry leaders. 
