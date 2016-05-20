@@ -29,7 +29,7 @@
 ##### Researcher for Sex Education Pilot Scheme
 Writing session plans for sex education sessions using objects within the museum to understand gender identity and sexual orientation.
 
-### Creative Industries Federation (Sep 2014 - July 2015)
+### Creative Industries Federation (Sep 2014 - Jul 2015)
 ##### Research and Events Assistant
 Supported CEO John Kampfner interact with a broad range of creative industries and assisted in the organisation of events for industry leaders. 
 
