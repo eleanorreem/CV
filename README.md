@@ -14,13 +14,12 @@
 ##### Full Stack Freelance Developer (May 2016 - Present)
 
 * Worked on prototype web applications. 
-* Collaborated with clients to scope projects such as London Youth. 
-* Developed an prototype recovery app for Breast Cancer Care. 
+* Collaborated with clients such as London Youth to scope projects. 
+* Developed a prototype recovery app for Breast Cancer Care. 
 
 #### 16 Week Intensive Development Course
 
 * The course was a combination of collaborative and self-teaching. 
-* Worked in varied team sizes: from 2 to 16. 
 * Practised working in two to sixteen man teams. 
 * Worked with different methodoligies: agile, test driven development, and pair programming. 
 * Managing the overall course for the next cohort, ensuring everyone has prepared content and the course is well organised. 
