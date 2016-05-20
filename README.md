@@ -40,8 +40,8 @@ MA in Art History (Merit)
 #### King’s College, Cambridge (2011-14)
 BA (Hons) Classics, 2.1 (First Class Dissertation) 
 
-#### A-Levels - Maths A*, Further Maths A, Classical Greek A;  AS-Levels - Art History A, Art A
-Camden School for Girls
+#### Camden School for Girls
+A-Levels - Maths A*, Further Maths A, Classical Greek A;  AS-Levels - Art History A, Art A
 
 #### Remedies for Love in the Ancient World co-written with Dr Vivienne Lo
 A co-written publication, soon to be published by Cambridge University Press.
