@@ -25,11 +25,11 @@
 * Managing the overall course for the next cohort, ensuring everyone has prepared content and the course is well organised. 
 
 ## Other Experience and Interests
-### British Museum (Oct 2015 – pres)
+### British Museum (Oct - Dec 2015 )
 ##### Researcher for Sex Education Pilot Scheme
 Writing session plans for sex education sessions using objects within the museum to understand gender identity and sexual orientation.
 
-### Creative Industries Federation (September 2014 - July 2015)
+### Creative Industries Federation (Sep 2014 - July 2015)
 ##### Research and Events Assistant
 Supported CEO John Kampfner interact with a broad range of creative industries and assisted in the organisation of events for industry leaders. 
 
@@ -38,10 +38,10 @@ Supported CEO John Kampfner interact with a broad range of creative industries a
 Fundraised, organised, and wrote training programmes for multiple women’s crews. Coached the most successful novice crew recorded. Took a crew to race internationally.
 
 ## Academic Achievements
-#### The Warburg Institute and The National Gallery (2014-15)
+#### The Warburg Institute and The National Gallery (Sep 2014-15)
 MA in Art History (Merit)
 
-#### King’s College, Cambridge (2011-14)
+#### King’s College, Cambridge (Sep 2011-14)
 BA (Hons) Classics, 2.1 (First Class Dissertation) 
 
 #### Camden School for Girls
