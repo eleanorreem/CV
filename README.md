@@ -7,8 +7,9 @@
 | HTML5     | Bootstrap            | QUnit     | GitHub Pages | |
 | CSS3      | Sass                 |           | Travis CI    | |
 | Markdown  | Materialize          |           |              | |
-|           | Material UI          |           |              | |
+| SQL       | Material UI          |           |              | |
 |           | Flexbox              |           |              ||
+
 ## Relevant Experience
 ### Founders and Coders CIC
 ##### Full Stack Freelance Developer (May 2016 - Present)
